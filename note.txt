@@ -1,0 +1,6 @@
+khởi tạo repository : git init
+
+
++ Chọn : git add -A ( git status : show thông tin)
++ Xác nhận
++ Đẩy
