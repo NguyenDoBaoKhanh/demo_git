@@ -10,3 +10,9 @@ khởi tạo repository : git init
 +Xác nhận : git commit -m " noi dung commite "
 +Đẩy : lần đầu ~ git push -u origin master 
 -------lần 2 trở lên ~ git push
+
+
+
+* Branch
+- Tạo nhanh : git checkout -b login
+- Chuyển nhánh: git checkout master 
