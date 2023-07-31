@@ -2,5 +2,11 @@ khởi tạo repository : git init
 
 
 + Chọn : git add -A ( git status : show thông tin)
-+ Xác nhận
++ Xác nhận : git commit -m " noi dung commit"
 + Đẩy
+~push code từ local lên remote :
+3 bước
++ Chọn : git add -A ( git status : show thông tin)
++Xác nhận : git commit -m " noi dung commite "
++Đẩy : lần đầu ~ git push -u origin master 
+-------lần 2 trở lên ~ git push
